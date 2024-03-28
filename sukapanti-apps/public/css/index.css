@@ -1,0 +1,67 @@
+.navbar {
+    background-color: #c57a0a;
+}
+.menu {
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
+.menu a {
+    text-decoration: none;
+    color: #000;
+}
+.kontak {
+    padding-top: 50px;
+    background-color: #c57a0a;
+    color: #fff;
+}
+iframe {
+    border-radius: 7px;
+}
+/* footer */
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+footer {
+    margin-top: auto;
+    padding: 5px;
+    color: #fff;
+    background-color: #c57a0a;
+    text-align: center;
+    font: bold;
+}
+/* footer end */
+
+/*tombol login*/
+.login-button {
+    background-color: #c99015;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+}
+.login-button:hover {
+    background-color: #a37208;
+}
+/*tombol login akhir*/
+
+/*tombol logout*/
+.logout-button {
+    background-color: #c99015;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+}
+.logout-button:hover {
+    background-color: #a37208;
+}
+/*tombol logout akhir*/
